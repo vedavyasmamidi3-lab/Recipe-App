@@ -29,3 +29,6 @@ Recipe-App/
 ├── style.css
 ├── app.js
 └── README.md
+## Live Demo
+
+[Recipeapp live demo](https://vedavyasmamidi3-lab.github.io/Recipe-App/)
