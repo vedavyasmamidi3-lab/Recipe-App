@@ -1,5 +1,4 @@
-# Recipe-App
-"A recipe finder web application using JavaScript and API integration"
+
 # Recipe Finder App
 
 A web application that allows users to search for different recipes and view details such as ingredients, images, and cooking instructions.
