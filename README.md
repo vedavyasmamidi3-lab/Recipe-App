@@ -1,5 +1,5 @@
 
-# Recipe Finder App
+# Recipe-App
 
 A web application that allows users to search for different recipes and view details such as ingredients, images, and cooking instructions.
 
